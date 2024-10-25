@@ -1,0 +1,9 @@
+.eventCard {
+    border: 1px solid red;
+    width: 600px;
+    margin: 10px auto;
+}
+
+.eventCard_title, .eventCard_description, .eventCard_date  {
+    color: blue;
+}
